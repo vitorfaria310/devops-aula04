@@ -1,5 +1,6 @@
 # devops-aula04
 aula 04 de 01/09/2020
 Vingadores Ultimato
-Liga da Justiça
+Pantera Negra
 Batman vs Superman
+Capitão América
